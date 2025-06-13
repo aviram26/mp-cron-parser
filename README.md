@@ -2,7 +2,12 @@
 
 A lightweight cron expression parser for [MicroPython](https://micropython.org/) and Python.  
 Perfect for task scheduling and timers in embedded, IoT, and microcontroller projects.
+---
+## Installation
 
+`mpremote mip install github:aviram26/mp-cron-parser`
+
+---
 ## Features
 
 - **Standard cron syntax:** 5 fields—minute, hour, day, month, day-of-week (`min hour dom mon dow`)
