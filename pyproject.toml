@@ -7,7 +7,7 @@ name = "mp-cron-parser"
 version = "0.1.0"
 description = "A lightweight cron expression parser for MicroPython and Python."
 readme = "README.md"
-license = { text = "MIT" }
+license = "MIT"
 authors = [
     { name = "Aviram Dayan", email = "aviram26@email.com" }
 ]
