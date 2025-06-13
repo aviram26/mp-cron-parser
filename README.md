@@ -10,7 +10,7 @@ Perfect for task scheduling and timers in embedded, IoT, and microcontroller pro
 ---
 ## Features
 
-- **Standard cron syntax:** 5 fields—minute, hour, day, month, day-of-week (`min hour dom mon dow`)
+- **Standard cron syntax:** 5 fields: minute, hour, day, month, day-of-week (`min hour dom mon dow`)
 - **Human-friendly aliases:** Supports `@yearly`, `@monthly`, `@weekly`, `@daily`, `@hourly`
 - **Supports ranges, steps, and lists:** (e.g. `0-30/5`, `MON-FRI`, `JAN,JUN,DEC`)
 - **Strict minimalism:** No dependencies except for Python’s standard `time` module
