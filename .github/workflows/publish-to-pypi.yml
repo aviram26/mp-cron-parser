@@ -32,7 +32,7 @@ jobs:
   publish-to-pypi:
     name: >-
       Publish mp-cron-parser to PyPI
-    if: startsWith(github.ref, 'refs/tags/')
+    if: startsWith(github.ref, 'refs/tags/') || github.event_name == 'release'
     needs:
       - build
     runs-on: ubuntu-latest
