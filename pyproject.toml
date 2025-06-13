@@ -12,9 +12,6 @@ description = "A lightweight cron expression parser for MicroPython and Python."
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
-classifiers = [
-    "License :: OSI Approved :: MIT License"
-]
 authors = [
     { name = "Aviram Dayan", email = "aviram26@email.com" }
 ]
