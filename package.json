@@ -2,5 +2,5 @@
   "urls": [
     ["cron_parser.py", "github:aviram26/mp-cron-parser/cron_parser.py"]
   ],
-  "version": "0.1.0"
+  "version": "0.1.4"
 }
