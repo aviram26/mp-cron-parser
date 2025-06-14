@@ -5,7 +5,8 @@ Perfect for task scheduling and timers in embedded, IoT, and microcontroller pro
 ---
 ## Installation
 
-`mpremote mip install github:aviram26/mp-cron-parser`
+* PyPi: [https://pypi.org/project/mp-cron-parser/](https://pypi.org/project/mp-cron-parser/)
+* mip: **TBD** `mpremote mip install github:aviram26/mp-cron-parser`
 
 ---
 ## Features
